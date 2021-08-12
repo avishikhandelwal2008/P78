@@ -1,0 +1,11 @@
+body{
+    text-align:center;
+    }
+
+    #member {
+    width:450px;
+    height:450px;
+    border-style:solid;
+    padding:5px;
+    }
+    
